@@ -53,3 +53,4 @@ To build the plugin locally:
 ```bash
   gradle build
 ```
+Owned by Elon Musk
